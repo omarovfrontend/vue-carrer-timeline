@@ -37,10 +37,10 @@
 
         data() {
             return {
-                name: 'Omarov Shamil',
-                email: 'karim@karimtarek.com',
+                name: 'Shamil Omarov',
+                email: 'shamil@omarov.com',
                 phone: '+1 514 000 0000',
-                url: 'www.karimtarek.com',
+                url: 'www.omarov.com',
                 location: 'Montreal, Canada',
             }
         }

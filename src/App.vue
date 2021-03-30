@@ -14,11 +14,11 @@
                 >
                     <div class="career-item__left">
                         <p class="career-item__name">{{ item.name }}</p>
-                        <span class="career-item__company">item.company</span>
+                        <span class="career-item__company">{{ item.company }}</span>
                     </div>
                     <div class="career-item__right">
-                        <span class="career-item__address">item.address</span>
-                        <span class="career-item__date">item.date</span>
+                        <span class="career-item__address">{{ item.address }}</span>
+                        <span class="career-item__date">{{ item.date }}</span>
                     </div>
                     <i class="fas fa-caret-left"></i>
                 </li>
